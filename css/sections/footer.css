@@ -57,6 +57,13 @@
 .footer__social li img {
   width: 45%;
   height: 45%;
-
   object-fit: contain;
+}
+
+.footer_copyright {
+  align-items: end;
+  justify-content: center;
+  font-family: var(--plus-jakarta-sans);
+  color: var(--secondary-color);
+  font-weight: bold;
 }
